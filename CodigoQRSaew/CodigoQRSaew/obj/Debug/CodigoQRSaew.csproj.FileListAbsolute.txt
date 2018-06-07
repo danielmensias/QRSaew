@@ -1,0 +1,11 @@
+c:\users\daniel\documents\visual studio 2013\Projects\CodigoQRSaew\CodigoQRSaew\bin\Debug\CodigoQRSaew.exe.config
+c:\users\daniel\documents\visual studio 2013\Projects\CodigoQRSaew\CodigoQRSaew\bin\Debug\CodigoQRSaew.exe
+c:\users\daniel\documents\visual studio 2013\Projects\CodigoQRSaew\CodigoQRSaew\bin\Debug\CodigoQRSaew.pdb
+c:\users\daniel\documents\visual studio 2013\Projects\CodigoQRSaew\CodigoQRSaew\bin\Debug\Gma.QrCodeNet.Encoding.pdb
+c:\users\daniel\documents\visual studio 2013\Projects\CodigoQRSaew\CodigoQRSaew\bin\Debug\Gma.QrCodeNet.Encoding.xml
+c:\users\daniel\documents\visual studio 2013\Projects\CodigoQRSaew\CodigoQRSaew\obj\Debug\CodigoQRSaew.csprojResolveAssemblyReference.cache
+c:\users\daniel\documents\visual studio 2013\Projects\CodigoQRSaew\CodigoQRSaew\obj\Debug\CodigoQRSaew.Form1.resources
+c:\users\daniel\documents\visual studio 2013\Projects\CodigoQRSaew\CodigoQRSaew\obj\Debug\CodigoQRSaew.Properties.Resources.resources
+c:\users\daniel\documents\visual studio 2013\Projects\CodigoQRSaew\CodigoQRSaew\obj\Debug\CodigoQRSaew.csproj.GenerateResource.Cache
+c:\users\daniel\documents\visual studio 2013\Projects\CodigoQRSaew\CodigoQRSaew\obj\Debug\CodigoQRSaew.exe
+c:\users\daniel\documents\visual studio 2013\Projects\CodigoQRSaew\CodigoQRSaew\obj\Debug\CodigoQRSaew.pdb
